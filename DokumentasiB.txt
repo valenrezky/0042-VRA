@@ -1,0 +1,3 @@
+From here, you can view the various branches that are being worked on, as well as when someone made a commit (this is kind of like “saving” a file). Depending on how a repository is set up, you also might be able to create your own branch and make your own commits there.
+And once you made some changes, you could submit that code back to a branch by making a pull request. A pull request is basically asking the person in charge of the branch to include your code. And it also helps that person see exactly what you’ve changed in the code.
+If you wanted to edit some or all of the WordPress source code on your own account on a more permanent basis, you could also fork it by clicking the Fork button (a fork is similar in concept to a branch, but a fork is more permanent):
